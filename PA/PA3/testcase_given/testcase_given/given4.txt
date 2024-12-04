@@ -1,0 +1,5 @@
+4
+malloc a 300
+free a
+malloc b 291
+free b

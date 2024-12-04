@@ -1,0 +1,54 @@
+53
+malloc a 1
+malloc b 1
+malloc c 1
+malloc d 1
+malloc e 1
+malloc f 1
+malloc g 1
+malloc h 1
+malloc i 1
+malloc j 1
+malloc k 1
+malloc l 1
+malloc m 1
+malloc n 1
+malloc o 1
+malloc p 1
+malloc q 1
+malloc r 1
+malloc s 1
+malloc t 1
+malloc u 1
+malloc v 1
+malloc w 1
+malloc x 1
+malloc y 1
+malloc z 1
+free a
+free b
+free c
+free d
+free e
+free f
+free g
+free h
+free i
+free j
+free k
+free l
+free m
+free n
+free o
+free p
+free q
+free r
+free s
+free t
+free u
+free v
+free w
+free x
+free y
+free z
+combine_nearby_free

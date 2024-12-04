@@ -1,0 +1,13 @@
+12
+malloc a 1000
+free a
+malloc b 300
+malloc c 200
+malloc d 100
+malloc e 50
+free e
+free c
+free b
+combine_nearby_free
+free d
+combine_nearby_free
